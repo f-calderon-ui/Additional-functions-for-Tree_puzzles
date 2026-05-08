@@ -7,4 +7,4 @@ Additional features
 - OST added
 - '+ FUN button added to activate and desactivate features
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CIXTmu7" data-context="false" ><a href="//imgur.com/a/CIXTmu7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Demo of features](https://i.imgur.com/9Jebz7Q.png)
