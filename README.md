@@ -5,4 +5,4 @@ Additional features
 - 0 files/columns now have water
 - Tents on water now are floating tents
 - OST added
-- + FUN added to activate and desactivate these features
+- '+ FUN button added to activate and desactivate these features
