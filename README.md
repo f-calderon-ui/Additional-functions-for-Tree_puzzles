@@ -1,4 +1,4 @@
-# Additional-functions-for-Tree_puzzles
+# Additional functions for Tents puzzles (From [Lexaine](https://github.com/lexaire))
 
 Additional features
 - Trees now can be clicked to have apples
